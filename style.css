@@ -18,3 +18,4 @@ p{margin:0 0 12px}
 a{color:var(--primary)}
 .lead{font-size:19px;color:var(--muted);margin:0 0 24px}
 footer{padding-bottom:40px;color:var(--muted);font-size:14px}
+.hero{display:block;width:100%;height:auto;border-radius:16px;margin:0 0 24px}
